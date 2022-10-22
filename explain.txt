@@ -1,0 +1,25 @@
+A Full stack developer is a type of web developer that builds 
+for both the front-end (User Interface) and Back-end (Logic) 
+of Websites and Databases.
+
+Tools a Full stack developer uses;
+1. Text Editor(Sublime text, Visual Studio Code, Notepad, Notepad++, Nano and so much more)
+2. Github
+3. Git
+4. Database Management System
+
+Languages Full stack developers use;
+1. HTML
+2. CSS
+3. JavaScript
+4. TypeScript
+5. React
+6. Angular
+7. Java
+8. Python
+9. Spring
+10. Django
+11. MySQL
+12. NoSQL
+13. NodeJS
+14. MongoDB
